@@ -1,0 +1,44 @@
+# JavaScript Basics Practice
+
+This repository contains my personal practice while learning JavaScript from scratch.
+
+Each file focuses on a specific concept, such as:
+- Data types
+- Comparison operators
+- Logical operators
+- Variables
+- Conditional statements
+- Loops
+- Functions
+- Recursion
+- Arrays
+- Objects
+- Primitive data
+- References and Prototypes
+- Error Handling
+- Asynchronous Programming
+
+
+## Project structure
+
+- 00_data_types.js
+
+
+## Purpose
+
+The purpose of this repository is to practice JavaScript fundamentals and Git version control while building consistent study habits.
+
+
+## How to run
+
+You can run the scripts using Node.js:
+
+    node filename.js
+
+Or open `index.html` in your browser to try the Guess the Number game.
+
+
+## Author
+
+    Created by: Joe Anthony Olivares Armijo
+
