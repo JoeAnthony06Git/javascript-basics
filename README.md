@@ -25,6 +25,7 @@ Each file focuses on a specific concept, such as:
 - 01_comparison_operators.js
 - 02_logical_operators.js
 - 03_variables.js
+- 04_console_log.js
 
 ## Purpose
 
