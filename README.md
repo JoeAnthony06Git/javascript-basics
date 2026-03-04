@@ -21,11 +21,12 @@ Each file focuses on a specific concept, such as:
 
 ## Project structure
 
-- 00_data_types.js
-- 01_comparison_operators.js
-- 02_logical_operators.js
-- 03_variables.js
-- 04_console_log.js
+- [00_data_types.js](./00_data_types.js)
+- [01_comparison_operators.js](./01_comparison_operators.js)
+- [02_logical_operators.js](./02_logical_operators.js)
+- [03_variables.js](./03_variables.js)
+- [04_console_log.js](./04_console_log.js)
+- [05_conditional_if.js](./05_conditional_if.js)
 
 ## Purpose
 
