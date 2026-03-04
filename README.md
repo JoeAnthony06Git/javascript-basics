@@ -22,7 +22,9 @@ Each file focuses on a specific concept, such as:
 ## Project structure
 
 - 00_data_types.js
-
+- 01_comparison_operators.js
+- 02_logical_operators.js
+- 03_variables.js
 
 ## Purpose
 
