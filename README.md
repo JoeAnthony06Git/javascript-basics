@@ -27,6 +27,7 @@ Each file focuses on a specific concept, such as:
 - [03_variables.js](./03_variables.js)
 - [04_console_log.js](./04_console_log.js)
 - [05_conditional_if.js](./05_conditional_if.js)
+- [06_while_loop.js](./06_while_loop.js)
 
 ## Purpose
 
