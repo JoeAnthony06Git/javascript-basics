@@ -29,6 +29,7 @@ Each file focuses on a specific concept, such as:
 - [05_conditional_if.js](./05_conditional_if.js)
 - [06_while_loop.js](./06_while_loop.js)
 - [07_for_loop.js](./07_for_loop.js)
+- [08_switch.js](08_switch.js)
 
 ## Purpose
 
