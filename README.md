@@ -28,6 +28,7 @@ Each file focuses on a specific concept, such as:
 - [04_console_log.js](./04_console_log.js)
 - [05_conditional_if.js](./05_conditional_if.js)
 - [06_while_loop.js](./06_while_loop.js)
+- [07_for_loop.js](./07_for_loop.js)
 
 ## Purpose
 
