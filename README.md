@@ -33,6 +33,7 @@ Each file focuses on a specific concept, such as:
 - [index.html](./index.html)
 - [09_functions.js](./09_functions.js)
 - [10_recursion.js](./10_recursion.js)
+- [11_arrays.js](./11_arrays.js)
 
 
 ## Purpose
