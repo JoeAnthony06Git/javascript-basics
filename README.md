@@ -30,6 +30,8 @@ Each file focuses on a specific concept, such as:
 - [06_while_loop.js](./06_while_loop.js)
 - [07_for_loop.js](./07_for_loop.js)
 - [08_switch.js](08_switch.js)
+- [guess_the_number.js](./guess_the_number.js)
+- [index.html](./index.html)
 
 ## Purpose
 
