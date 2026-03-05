@@ -32,6 +32,7 @@ Each file focuses on a specific concept, such as:
 - [guess_the_number.js](./guess_the_number.js)
 - [index.html](./index.html)
 - [09_functions.js](./09_functions.js)
+- [10_recursion.js](./10_recursion.js)
 
 
 ## Purpose
