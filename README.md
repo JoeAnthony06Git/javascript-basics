@@ -18,7 +18,6 @@ Each file focuses on a specific concept, such as:
 - Error Handling
 - Asynchronous Programming
 
-
 ## Project structure
 
 - [00_data_types.js](./00_data_types.js)
@@ -32,6 +31,8 @@ Each file focuses on a specific concept, such as:
 - [08_switch.js](08_switch.js)
 - [guess_the_number.js](./guess_the_number.js)
 - [index.html](./index.html)
+- [09_functions.js](./09_functions.js)
+
 
 ## Purpose
 
