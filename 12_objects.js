@@ -23,7 +23,7 @@ const gameSystem = {
 console.log(gameSystem.name); // PS5
 console.log(gameSystem.games[0]); // Resident Evil 4
 console.log(gameSystem.specs.cpu); // AMD
-console.log(gameSystem.runGame('Residen Revil 2')); // Residen Revil 2
+console.log(gameSystem.runGame('Resident Evil 2')); // Resident Evil 2
 
 // Modifying properties
 gameSystem.price = 499;
