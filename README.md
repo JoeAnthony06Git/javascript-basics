@@ -3,20 +3,22 @@
 This repository contains my personal practice while learning JavaScript from scratch.
 
 Each file focuses on a specific concept, such as:
-- Data types
-- Comparison operators
-- Logical operators
+- Data Types
+- Comparison Operators
+- Logical Operators
 - Variables
-- Conditional statements
+- Conditional Statements
 - Loops
 - Functions
 - Recursion
 - Arrays
 - Objects
-- Primitive data
+- Primitive Data Types
 - References and Prototypes
 - Error Handling
 - Asynchronous Programming
+
+The goal of this repository is to build a solid understanding of core JavaScript concepts through small, focused examples and exercises.
 
 ## Project structure
 
@@ -34,7 +36,7 @@ Each file focuses on a specific concept, such as:
 - [09_functions.js](./09_functions.js)
 - [10_recursion.js](./10_recursion.js)
 - [11_arrays.js](./11_arrays.js)
-
+- [12_objects.js](./12_objects.js)
 
 ## Purpose
 
