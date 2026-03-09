@@ -20,6 +20,8 @@ Each file focuses on a specific concept, such as:
 
 The goal of this repository is to build a solid understanding of core JavaScript concepts through small, focused examples and exercises.
 
+---
+
 ## Project structure
 
 - [00_data_types.js](./00_data_types.js)
@@ -37,11 +39,15 @@ The goal of this repository is to build a solid understanding of core JavaScript
 - [10_recursion.js](./10_recursion.js)
 - [11_arrays.js](./11_arrays.js)
 - [12_objects.js](./12_objects.js)
+- [13_primitive_data_types.js](./13_primitive_data_types.js)
+
+---
 
 ## Purpose
 
 The purpose of this repository is to practice JavaScript fundamentals and Git version control while building consistent study habits.
 
+---
 
 ## How to run
 
@@ -51,6 +57,7 @@ You can run the scripts using Node.js:
 
 Or open `index.html` in your browser to try the Guess the Number game.
 
+---
 
 ## Author
 
