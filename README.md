@@ -40,6 +40,7 @@ The goal of this repository is to build a solid understanding of core JavaScript
 - [11_arrays.js](./11_arrays.js)
 - [12_objects.js](./12_objects.js)
 - [13_primitive_data_types.js](./13_primitive_data_types.js)
+- [14_references_and_prototypes](14_references_and_prototypes.js)
 
 ---
 
