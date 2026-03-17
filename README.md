@@ -41,6 +41,7 @@ The goal of this repository is to build a solid understanding of core JavaScript
 - [12_objects.js](./12_objects.js)
 - [13_primitive_data_types.js](./13_primitive_data_types.js)
 - [14_references_and_prototypes](14_references_and_prototypes.js)
+- [15_classes_and_inheritance](15_classes_and_inheritance.js)
 
 ---
 
