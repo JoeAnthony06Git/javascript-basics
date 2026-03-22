@@ -40,9 +40,12 @@ The goal of this repository is to build a solid understanding of core JavaScript
 - [11_arrays](./11_arrays.js)
 - [12_objects](./12_objects.js)
 - [13_primitive_data_types](./13_primitive_data_types.js)
-- [14_references_and_prototypes](14_references_and_prototypes.js)
-- [15_classes_and_inheritance](15_classes_and_inheritance.js)
-- [16_error_handling](16_error_handling.js)
+- [14_references_and_prototypes](./14_references_and_prototypes.js)
+- [15_classes_and_inheritance](./15_classes_and_inheritance.js)
+- [16_error_handling](./16_error_handling.js)
+- [17_callbacks_and_promises](./17_callbacks_and_promises.js)
+- [18_fetch_API](./18_fetch_API.js)
+- [19_async_await](./19_async_await.js)
 
 ---
 
